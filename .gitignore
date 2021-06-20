@@ -1,6 +1,7 @@
 # OS or Editor folders
 .cache
 .idea
+venv
 
 # Numerous always-ignore extensions
 *.diff
